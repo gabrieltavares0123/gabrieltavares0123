@@ -1,4 +1,11 @@
 ### Hi there 👋
+:office: I'm a Android Analyst at Eldorado Research Institute.   
+:man_student: Currently I'm Computing Master's degree student at Federal University of Ceara.  
+:footprints: I'm currently learning and taking my first steps in research in the field of AI.  
+:thinking: I'm curious about Android, Unity, AI...  
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-jorge-92168b52/) 
+
+
 
 <!--
 **gabrieltavares0123/gabrieltavares0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltavares0123&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltavares0123&layout=compact&hide=shaderlab,hlsl,javascript,css,html)](https://github.com/anuraghazra/github-readme-stats)
