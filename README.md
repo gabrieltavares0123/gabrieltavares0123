@@ -1,5 +1,5 @@
 ### Hi there 👋
-:office: I'm a Android Software Analyst at [Eldorado Research Institute](https://www.eldorado.org.br/).   
+:office: I'm an Android Software Analyst at [Eldorado Research Institute](https://www.eldorado.org.br/).   
 :man_student: Currently I'm Computing Master's degree student at [Federal University of Ceara](https://www.quixada.ufc.br/).   
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-jorge-92168b52/) 
   
