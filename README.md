@@ -1,6 +1,5 @@
 ### Hi there 👋
-:office: I'm an Android Software Analyst at [Eldorado Research Institute](https://www.eldorado.org.br/).   
-:man_student: Currently I'm Computing Master's degree student at [Federal University of Ceara](https://www.quixada.ufc.br/).   
+:office: I'm a Software Engineer.   
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-jorge-92168b52/) 
   
   
@@ -18,6 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltavares0123&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltavares0123&layout=compact&hide=shaderlab,hlsl,javascript,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltavares0123&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
